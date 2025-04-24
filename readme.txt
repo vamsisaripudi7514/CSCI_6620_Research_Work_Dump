@@ -15,7 +15,6 @@ This GitHub repository has all the files related to the research being performed
                 ->	config.py: Contains API keys and LLM configuration used for experimentation.
                 ->	extract.json: Used for extracting JSON values from LLM outputs. 
                 ->	Instruction.py: Contains prompts for SQL generation, static feedback, dynamic feedback generation, and query refinement.
-            ->	Test_database: This is the database of the SPIDER dataset test_split used for testing the system.
             ->	Evaluation_script.py: This file is used to calculate the execution accuracy of the generated queries.
             ->	Text files: They contain outputs for each model, for both static and dynamic feedback loops, along with the base queries.
             ->	ppl_dev.json: Contains records of the test split of the SPIDER dataset formatted as JSON objects. 
