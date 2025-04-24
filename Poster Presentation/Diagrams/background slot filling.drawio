@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
+  <diagram name="Page-1" id="RD3qhIxDrwS2rDJyGoOU">
+    <mxGraphModel dx="3069" dy="1297" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t-3b8VMXYgE2knR4i13u-13" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;NATURAL LANGUAGE QUERY&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&quot;Which artist released the album &#39;Thriller&#39;?&quot;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A7C7E7;strokeColor=#6c8ebf;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=34;" parent="1" vertex="1">
+          <mxGeometry x="-678" y="66" width="566" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="t-3b8VMXYgE2knR4i13u-14" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;INTENT DETECTION&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;Identified Intent: &quot;Retrieve artist information&quot;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4A261;strokeColor=#d79b00;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=34;" parent="1" vertex="1">
+          <mxGeometry x="183" y="63.75" width="589" height="200.5" as="geometry" />
+        </mxCell>
+        <mxCell id="t-3b8VMXYgE2knR4i13u-15" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;SLOT FILLING&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;SELECT&lt;/span&gt;:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; artist&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;FROM&lt;/span&gt;:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; albums&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;WHERE&lt;/span&gt;:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt; title =&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;hljs-string&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&#39;Thriller&#39;&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C3A2D5;strokeColor=#9673a6;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=34;" parent="1" vertex="1">
+          <mxGeometry x="-608.5" y="394.5" width="427" height="233" as="geometry" />
+        </mxCell>
+        <mxCell id="t-3b8VMXYgE2knR4i13u-16" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;TYPE RECOGNITION&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&lt;span class=&quot;hljs-string&quot;&gt;&#39;Artist&#39;&lt;/span&gt;&amp;nbsp;→&amp;nbsp;&lt;span class=&quot;hljs-keyword&quot;&gt;COLUMN&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&lt;span class=&quot;hljs-string&quot;&gt;&#39;Thriller&#39;&lt;/span&gt;&amp;nbsp;→ ALBUM&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8FC1A9;strokeColor=#82b366;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=34;" parent="1" vertex="1">
+          <mxGeometry x="251.25" y="394.5" width="452.5" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="t-3b8VMXYgE2knR4i13u-17" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;SQL TEMPLATE&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&quot;SELECT {columns} FROM {table} WHERE {conditions}&quot;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4E285;strokeColor=#d6b656;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=34;" parent="1" vertex="1">
+          <mxGeometry x="-767.5" y="745" width="745" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="t-3b8VMXYgE2knR4i13u-18" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;FINAL&amp;nbsp;&lt;span class=&quot;hljs-keyword&quot;&gt;SQL&lt;/span&gt;&amp;nbsp;QUERY&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot;&gt;SELECT artist FROM albums WHERE title = &#39;Thriller&#39;;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E57373;strokeColor=#b85450;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=34;" parent="1" vertex="1">
+          <mxGeometry x="108.5" y="749" width="738" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="t-3b8VMXYgE2knR4i13u-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=34;" parent="1" source="t-3b8VMXYgE2knR4i13u-13" target="t-3b8VMXYgE2knR4i13u-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377" y="524" as="sourcePoint" />
+            <mxPoint x="427" y="474" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-3b8VMXYgE2knR4i13u-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=34;" parent="1" source="t-3b8VMXYgE2knR4i13u-14" target="t-3b8VMXYgE2knR4i13u-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="437" y="572" as="sourcePoint" />
+            <mxPoint x="487" y="522" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-3b8VMXYgE2knR4i13u-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=34;" parent="1" source="t-3b8VMXYgE2knR4i13u-16" target="t-3b8VMXYgE2knR4i13u-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="602" y="520" as="sourcePoint" />
+            <mxPoint x="602" y="598" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-3b8VMXYgE2knR4i13u-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=34;" parent="1" source="t-3b8VMXYgE2knR4i13u-15" target="t-3b8VMXYgE2knR4i13u-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="612" y="530" as="sourcePoint" />
+            <mxPoint x="612" y="608" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-3b8VMXYgE2knR4i13u-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Nunito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNunito;fontSize=34;" parent="1" source="t-3b8VMXYgE2knR4i13u-17" target="t-3b8VMXYgE2knR4i13u-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="622" y="540" as="sourcePoint" />
+            <mxPoint x="622" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

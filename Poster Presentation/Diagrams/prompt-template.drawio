@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="9NQA3wAW1xA9AWs5K-3c">
+    <mxGraphModel dx="1134" dy="649" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x6FsEUro8yqNJuoD1QVw-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot; face=&quot;Nunito&quot;&gt;&lt;b&gt;ROLE DEFINITION&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#FFCC80;strokeColor=#000000;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="317" y="36" width="402" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="x6FsEUro8yqNJuoD1QVw-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot; face=&quot;Nunito&quot;&gt;&lt;b&gt;TASK OBJECTIVES&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#81D4FA;strokeColor=#382500;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="317" y="120" width="402" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="x6FsEUro8yqNJuoD1QVw-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot; face=&quot;Nunito&quot;&gt;&lt;b&gt;INPUT SPECIFICATIONS&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#FFF59D;strokeColor=#382500;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="317" y="204" width="402" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="x6FsEUro8yqNJuoD1QVw-5" value="&lt;span&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot; face=&quot;Nunito&quot;&gt;&lt;b&gt;OUTPUT FORMAT&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#A5D6A7;strokeColor=#382500;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="317" y="288" width="402" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="x6FsEUro8yqNJuoD1QVw-6" value="&lt;span&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot; face=&quot;Nunito&quot;&gt;&lt;b&gt;EXECUTION STEPS&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#80CBC4;strokeColor=#382500;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="317" y="372" width="402" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="x6FsEUro8yqNJuoD1QVw-7" value="&lt;span&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Nunito&quot; face=&quot;Nunito&quot;&gt;&lt;b&gt;IMPORTANT NOTES&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#FFABAB;strokeColor=#382500;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="317" y="456" width="402" height="84" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
